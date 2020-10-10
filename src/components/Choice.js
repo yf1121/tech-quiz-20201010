@@ -45,4 +45,3 @@ const Choice = (props) => {
 };
 
 export default Choice;
-
